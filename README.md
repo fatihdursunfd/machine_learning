@@ -3,4 +3,4 @@
 linear regreesion :
 - normal equation
 - least square method
-- graident descent
+- gradient descent
